@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "23vbOb9hb66IwH2kpryJRtYXSB5CJ7pSJEZcSDhimKiJXtqS3TU21TfK0Eqddsq/EsSKrVfUU1aBMxUovvZ75g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\groleaud\\source\\repos\\Workspaces\\Projects\\LetterTesting\\LetterTesting\\LetterTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\groleaud\\.nuget\\packages\\pdfpig\\0.1.4\\pdfpig.0.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
